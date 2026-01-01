@@ -23,3 +23,4 @@ function lFam(fam){
 const filtered = FAMILY.filter(lFam);
 
 console.log(filtered);
+
